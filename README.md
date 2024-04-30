@@ -1,4 +1,4 @@
-#NFT
+#NFT Marketplace
 # Truffle-Tailwind-React Web3 Starter Kit
 Speedily develope your decentralized application with this starter kit for free!
 
